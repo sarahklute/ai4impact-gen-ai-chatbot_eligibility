@@ -5,12 +5,7 @@
     "userPoolWebClientId": "6o3msm0s4ajfh3heu6i8mngl0c",
     "oauth": {
       "domain": "genaimvp-auth.auth.us-east-1.amazoncognito.com",
-      "scope": [
-        "aws.cognito.signin.user.admin",
-        "email",
-        "openid",
-        "profile"
-      ],
+      "scope": ["aws.cognito.signin.user.admin", "email", "openid", "profile"],
       "redirectSignIn": "http://localhost:3000/",
       "responseType": "code"
     }

@@ -8,4 +8,4 @@ export const cognitoDomainName = "gen-ai-eligibility"
 // make sure to leave it blank if you do not actually have an SSO provider configured in Cognito!
 export const OIDCIntegrationName = ""
 // this MUST be unique to your account
-export const stackName = "GenAiEligibilitytStack"
+export const stackName = "EligibilityStack"
